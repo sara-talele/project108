@@ -1,0 +1,43 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: aqua;
+    text-align: center;
+    color: blueviolet;
+}
+
+.header_div {
+    background-color: aqua;
+    color: blue;
+    letter-spacing: 2px;
+}
+
+.header_div p {
+    font-family: 'Merriweather', serif;
+    color: deeppink;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Vina Sans', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    border: black burlywood;
+    background-color: azure;
+}
+
+.copyright_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+    font-size: 20px;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
